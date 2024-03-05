@@ -1,2 +1,9 @@
+.container>h1{
+	
+}
 
-/* Your CSS Code here. */
+.boxes{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
